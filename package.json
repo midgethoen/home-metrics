@@ -1,0 +1,16 @@
+{
+  "name": "Home-metrics",
+  "version": "1.0.0",
+  "description": "Write metrics from home to mongodb",
+  "main": "index.js",
+  "scripts": { },
+  "keywords": ["nest", "home", "metrics"],
+  "author": "Midge 't Hoen",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.16",
+    "node-schedule": "^1.2.0",
+    "ramda": "^0.22.1",
+    "request": "^2.79.0"
+  }
+}

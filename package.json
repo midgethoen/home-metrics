@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Write metrics from home to mongodb",
   "main": "index.js",
-  "scripts": { },
+  "scripts": {
+    "start": "node index.js"
+  },
   "keywords": ["nest", "home", "metrics"],
   "author": "Midge 't Hoen",
   "license": "ISC",
